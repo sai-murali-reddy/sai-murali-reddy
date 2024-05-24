@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Java
-- 🌱 I’m currently learning Full Stack Development
+- 🌱 I’m currently learning Full Stack Development at Scaler
 - 👯 I’m looking to collaborate on FinTech companies
 - 🤔 I’m looking for help with nothing
 - 💬 Ask me about ...
